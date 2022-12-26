@@ -1,0 +1,26 @@
+PART 1
+
+1. To print SkillRack 
+
+CODE:
+
+print("SkillRack")
+
+a="SkillRack"
+
+print(a)
+
+for any input in string:
+
+CODE:
+
+a=input()
+
+print(a)
+
+for any input in integer:
+
+a=int(input())
+
+print(a)
+
