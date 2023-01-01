@@ -1,0 +1,7 @@
+program must accept a number and multiply by 2
+
+CODE:
+
+a=int(input())
+
+print(a*2)
