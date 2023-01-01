@@ -1,0 +1,9 @@
+To print skill in one line and rack in other line
+
+CODE:
+
+print("Skill")
+
+print("Rack")
+
+print("Skill\nRack")
