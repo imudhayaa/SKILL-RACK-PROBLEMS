@@ -1,0 +1,7 @@
+Program must accept a number and print the PREVIOUS number
+
+CODE:
+
+a=int(input())
+
+print(a-1)
