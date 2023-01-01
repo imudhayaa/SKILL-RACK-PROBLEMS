@@ -1,0 +1,17 @@
+ADD 3 NUMBERS
+
+CODE:
+
+a=int(input())
+
+b=int(input())
+
+c=int(input())
+
+print(a+b+c)
+
+To get the input in single line use map function
+
+a,b,c=map(int,input().split())
+
+print(a+b+c)
