@@ -1,0 +1,15 @@
+program must accept two numbers and print their product
+
+CODE:
+
+a=int(input())
+
+b=int(input())
+
+print(a*b)
+
+To get the input in single line use map function
+
+a,b=map(int,input().split())
+
+print(a*b)
