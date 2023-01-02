@@ -1,0 +1,15 @@
+Program must accept two numbers and print yes if they are equal . else the program must print no as the output.
+
+CODE:
+
+a=int(input())
+
+b=int(input())
+
+if a==b:
+
+    print("Yes")
+
+else:
+
+    print("No")
