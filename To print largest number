@@ -1,0 +1,15 @@
+Program must accept two numbers and print the largest number
+
+CODE:
+
+a=int(input())
+
+b=int(input())
+
+if a>b:
+
+    print(a)
+
+else:
+
+    print(b)
