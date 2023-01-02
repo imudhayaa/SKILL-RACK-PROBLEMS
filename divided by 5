@@ -1,0 +1,7 @@
+Program must accept a number and print its remainder when its divided by 5
+
+CODE:
+
+a=int(input())
+
+print(a%5)
