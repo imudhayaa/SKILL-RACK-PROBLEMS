@@ -1,0 +1,13 @@
+Program must accept a mark and print if it is pass or fail. the pass mark is 40
+
+CODE:
+
+a=int(input())
+
+if (a>=40):
+
+    print("Pass")
+
+else:
+
+    print("Fail")
